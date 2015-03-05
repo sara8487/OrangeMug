@@ -4,7 +4,7 @@
      -moz-box-sizing: border-box;
      -ms-box-sizing: border-box;
      -box-sizing: border-box;
-width: 1024px;
+
 }
 body {
      font-family: Verdana, sans-serif;
@@ -19,8 +19,7 @@ h2 {
      color: #f07c17;
      font-weight: bold;
      font-size: 21px;
-     margin-top: -2px;
-     margin-bottom: 25px;
+     margin -2px; 25px;
 }
  
 li {
@@ -32,20 +31,13 @@ li {
 }
  
 .image {
-     margin-bottom: 0px;
-     margin-left: 25px;
-     max-width: 374px;
-     height: 400px;
+     margin: 0px; 25px; 374px; 400px;
 }
  
 .features {
     border: solid 1px #ccc;
-    padding-top: 35px;
-    padding-left: 20px;
-    padding-bottom: 20px;
-    margin-left: 25px;
-    margin-top: 5px;
-    width: 374px;
+    padding: 35px; 20px;20px;
+    margin: 25px; 5px; 374px;
 }
  
 .description {
